@@ -4,8 +4,8 @@
   "description": "Extract the email address from a string (using RegEx)\r\n\r\nGiven a string containing one email address, create a workflow to extract the email address using regular expressions. \r\n\r\nNote: For input please use a String variable with the following value “Please use the following address to contact me john.doe@localcompany.com, it's the company email\"",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[24.3.0]",
-    "UiPath.UIAutomation.Activities": "[24.2.2-preview]"
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
